@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Seraphimi # the main title
+title: seraphim # the main title
 
-tagline: A security oriented blog # it will display as the sub-title
+tagline: I fucking hate security # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Cybersecurity and penetration testing oriented blog with CTF writeups.
